@@ -1,4 +1,4 @@
-package com.heniux.jinx.demo;
+package com.heniux.jinx.demo1;
 
 public class HelloWorld {
     public static void main(String[] args) {
