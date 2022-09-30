@@ -1,8 +1,4 @@
 package com.heniux.jinx.demo2;
-/*
- * Java语法 096 面向对象思想的概述 || 视频 V0004 传智播客 黑马程序员 Java | Java语法基础 558个视频
- * https://www.youtube.com/watch?v=PFvIvaaXNWM
- */
 
 import java.util.Arrays;
 
