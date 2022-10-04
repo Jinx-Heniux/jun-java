@@ -2,7 +2,7 @@ package com.heniux.jinx.demo2;
 
 import java.util.Arrays;
 
-public class PrintArray {
+public class ArrayPrint {
     public static void main(String[] args) {
         
         int[] array = {1, 2, 3, 4, 5};
